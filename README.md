@@ -21,15 +21,16 @@ all parts are THT components, making easy to assemble.
 | 3D printed faceplate | 1 |  |
 
 Notes: 
-- you can use Pi Pico instead, but you will need external WS2812B LED. 
+- you can use Pi Pico instead, but you will need external WS2812B LED.
+- print 3D models with 25% infill at least.
 
-# CircuitPython HID
+## CircuitPython HID
 
 You can find some more info about the CircuitPython KeyMappings here;
 
 https://circuitpython.readthedocs.io/projects/hid/en/latest/_modules/adafruit_hid/keycode.html
 
-## Instructions
+# Instructions
 - connect YD-RP2040 to computer while pressing onboard BOOT button.
 - download circuitpython for YD-RP2040 [link](https://circuitpython.org/board/vcc_gnd_yd_rp2040/)
 - install circuitpython to YD-RP2040 by copying uf2 file to newly appeared drive.
