@@ -1,7 +1,5 @@
 # Pico Producer remix by Blue_ON
 
-## About this Project
-
 a shorcut keypad using YD-RP2040/Pi Pico.\
 original project by https://github.com/pjgpetecodes/pico-streamdeck
 
@@ -24,12 +22,6 @@ Notes:
 - you can use Pi Pico instead, but you will need external WS2812B LED.
 - print 3D models with 25% infill at least.
 
-## CircuitPython HID
-
-You can find some more info about the CircuitPython KeyMappings here;
-
-https://circuitpython.readthedocs.io/projects/hid/en/latest/_modules/adafruit_hid/keycode.html
-
 # Instructions
 - connect YD-RP2040 to computer while pressing onboard BOOT button.
 - download circuitpython for YD-RP2040 [link](https://circuitpython.org/board/vcc_gnd_yd_rp2040/)
@@ -45,3 +37,9 @@ https://circuitpython.readthedocs.io/projects/hid/en/latest/_modules/adafruit_hi
 - solder YD-RP2040 to PCB.
 - trim the header pins.
 - assemble all together
+
+## CircuitPython HID
+
+You can find some more info about the CircuitPython KeyMappings here;
+
+https://circuitpython.readthedocs.io/projects/hid/en/latest/_modules/adafruit_hid/keycode.html
