@@ -30,13 +30,13 @@ Notes:
 - install [hid library](https://github.com/adafruit/Adafruit_CircuitPython_HID/releases) to 'CIRCUITPY' drive
 - copy code.py to 'CIRCUITPY' drive and disconnect the board from computer.
 - solder the R68 jumper on the YD-RP2040. this enables onboard RGB LED.
-- solder key switches to PCB.
 - solder LEDs to PCB.
 - solder resistors to PCB.
-- solder pin header to YD-RP2040. breadboard can be helpful.
+- solder pin header to PCB.
+- solder key switches to PCB.
 - solder YD-RP2040 to PCB.
 - trim the header pins.
-- assemble all together
+- assemble all together.
 
 ## CircuitPython HID
 
