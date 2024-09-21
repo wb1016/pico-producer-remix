@@ -31,3 +31,5 @@ fp-info-cache
 # production files
 production
 fabrication-toolkit-options.json
+
+__pycache__
