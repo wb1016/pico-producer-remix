@@ -1,3 +1,5 @@
+# ARCHIVED
+### will be on work for new fork
 # Pico Producer remix by Blue_ON
 
 a shorcut keypad using YD-RP2040/Pi Pico.\
